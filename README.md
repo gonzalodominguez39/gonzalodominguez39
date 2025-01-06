@@ -40,8 +40,6 @@ My most recent project is a **dating app**, which I'm developing as part of my *
 ### **Design and UI/UX**  
 - **Material Design** | **Figma**
 
----
-## Tecnologías
 
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
