@@ -43,7 +43,7 @@ My most recent project is a **dating app**, which I'm developing as part of my *
 ---
 
 ## 📚 Education  
-
+- **Professional IT Technician** – **Technique number 2 eng. santiago barabino**  
 - **University programmer** – **National University of Santiago del Estero (UNSE)** – *Final year*  
 - **Full-Stack Node.js Developer Certification** – **Telecom Argentina - Digitalers**  
 
