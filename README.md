@@ -31,14 +31,14 @@ My most recent project is a **dating app**, which I'm developing as part of my *
 - **MongoDB Atlas** (non-relational)  
 
 ### **Mobile Development**  
-- **Android** | **Java** | **Kotlin**  
+- **Android** | **Java** | **Kotlin** | **React Native**   
 
 ### **Development Tools**  
 - **Git** | **GitHub** | **Bitbucket** | **Docker** | **Postman**  
 - **VSCode** | **Android Studio** | **IntelliJ IDEA**  | **NetBeans** 
 
 ### **Design and UI/UX**  
-- **Material Design** | **Figma** | **React Native** 
+- **Material Design** | **Figma**
 
 ---
 
