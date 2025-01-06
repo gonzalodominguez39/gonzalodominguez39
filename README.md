@@ -44,8 +44,8 @@ My most recent project is a **dating app**, which I'm developing as part of my *
 
 ## 📚 Education  
 
-- **Programming Degree** – **National University of Santiago del Estero (UNSE)** – *Final year*  
-- **Full-Stack Developer Certification** – **Telecom Argentina - Digitalers**  
+- **University programmer** – **National University of Santiago del Estero (UNSE)** – *Final year*  
+- **Full-Stack Node.js Developer Certification** – **Telecom Argentina - Digitalers**  
 
 ---
 
