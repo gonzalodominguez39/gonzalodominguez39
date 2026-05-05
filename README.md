@@ -39,9 +39,6 @@ Apasionado por la integración de IA en productos reales y el mentoring a perfil
 <p>
   <a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" height="36"/></a>&nbsp;
   <a href="https://docs.nestjs.com"><img src="https://skillicons.dev/icons?i=nestjs" height="36"/></a>&nbsp;
-  <a href="https://nodejs.org/en/docs"><img src="https://skillicons.dev/icons?i=nodejs" height="36"/></a>&nbsp;
-  <a href="https://docs.oracle.com/en/java"><img src="https://skillicons.dev/icons?i=java" height="36"/></a>&nbsp;
-  <a href="https://docs.python.org/3"><img src="https://skillicons.dev/icons?i=python" height="36"/></a>
 </p>
 
 **Bases de datos**
