@@ -26,7 +26,6 @@ Apasionado por la integración de IA en productos reales y el mentoring a perfil
 <p>
   <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" height="36"/></a>&nbsp;
   <a href="https://nextjs.org/docs"><img src="https://skillicons.dev/icons?i=nextjs" height="36"/></a>&nbsp;
-  <a href="https://angular.dev"><img src="https://skillicons.dev/icons?i=angular" height="36"/></a>&nbsp;
   <a href="https://www.typescriptlang.org/docs"><img src="https://skillicons.dev/icons?i=ts" height="36"/></a>&nbsp;
   <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="36"/></a>&nbsp;
   <a href="https://tailwindcss.com/docs"><img src="https://skillicons.dev/icons?i=tailwind" height="36"/></a>&nbsp;
